@@ -58,11 +58,11 @@
 # for kazdyElement in range(iloscWierszy):
 
 
-j = int(input("podaj ile wysokosci ma miec wieza ?"))
-
-for j in range(0, j):
-    if j < 10:
-        print((j+1) * "A")
+# j = int(input("podaj ile wysokosci ma miec wieza ?"))
+#
+# for j in range(0, j):
+#     if j < 10:
+#         print((j+1) * "A")
 
 
 
