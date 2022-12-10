@@ -4,7 +4,11 @@ lista = list(range(10))
 for elem in lista:
     if elem % 2 == 0:
         print("#" * elem)
+        lista = list(range(10))
 
+for elem in lista:
+    if elem % 2 == 0:
+        print("#" * elem)
 
         #
         # for i in range(1,51):
